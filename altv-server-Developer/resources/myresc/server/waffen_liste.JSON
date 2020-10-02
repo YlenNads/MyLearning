@@ -1,0 +1,30 @@
+{
+    "name": "Waffenliste",
+    "Mele" :
+    [
+        {
+            "waffe_name" : "Unarmed",
+            "Hash" : -1569615261
+        },
+        {
+            "waffe_name" : "Knife",
+            "Hash" : -1716189206
+        },
+        {
+            "waffe_name" : "Nightstick",
+            "Hash" : 1737195953
+        },
+        {
+            "waffe_name" : "Hammer",
+            "Hash" : 1317494643
+        },
+        {
+            "waffe_name" : "Bat",
+            "Hash" : -1786099057
+        },
+        {
+            "waffe_name" : "Crowbar",
+            "Hash" : -2067956739
+        }
+    ]
+}
